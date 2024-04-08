@@ -1,6 +1,7 @@
 {
   "investors": [
     "BloorRedTape",
-    "zavad4"
+    "zavad4",
+    "Jeytery"
   ]
 }
