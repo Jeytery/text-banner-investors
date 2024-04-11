@@ -1,6 +1,6 @@
 {
   "investors": [
-    "BloorRedTape",
+    "BloodRedTape",
     "zavad4"
   ]
 }
